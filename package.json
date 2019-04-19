@@ -9,7 +9,7 @@
     "start": "npm run build && ts-node server.ts",
     "watch": "npm run build && ts-node-dev server.ts"
   },
-  "author": "",
+  "author": "Muhammad Dadu",
   "license": "ISC",
   "dependencies": {
     "clout-js": "^2.1.0-beta.2",
