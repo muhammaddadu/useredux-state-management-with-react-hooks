@@ -86,3 +86,4 @@ typings/
 dist/
 build/
 .vscode/
+.DS_Store
