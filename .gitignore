@@ -85,3 +85,4 @@ typings/
 
 dist/
 build/
+.vscode/
